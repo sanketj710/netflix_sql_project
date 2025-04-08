@@ -4,16 +4,11 @@ This project demonstrates how to use SQL to perform real-world business analysis
 
 ---
 
-## 📁 Table of Contents
+## DATASET 
+LINK : https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
 
-- [Project Description](#project-description)
-- [Technologies Used](#technologies-used)
-- [Database Schema](#database-schema)
-- [Business Questions Solved](#business-questions-solved)
-- [How to Use](#how-to-use)
-- [Author](#author)
 
----
+
 
 ## 📌 Project Description
 
